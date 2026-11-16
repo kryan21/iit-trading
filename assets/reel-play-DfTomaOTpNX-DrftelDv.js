@@ -1,0 +1,1 @@
+import a from"./play-DfTomaOTpNX-p1.js";import b from"./play-DfTomaOTpNX-p2.js";var e="data:video/mp4;base64,"+a+b;export{e as default};

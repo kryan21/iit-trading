@@ -1,0 +1,1 @@
+import a from"./play-DfR77XYTtyd-p1.js";import b from"./play-DfR77XYTtyd-p2.js";var e="data:video/mp4;base64,"+a+b;export{e as default};

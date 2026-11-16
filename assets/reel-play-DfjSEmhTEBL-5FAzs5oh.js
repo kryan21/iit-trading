@@ -1,0 +1,1 @@
+import a from"./play-DfjSEmhTEBL-p1.js";import b from"./play-DfjSEmhTEBL-p2.js";import c from"./play-DfjSEmhTEBL-p3.js";var e="data:video/mp4;base64,"+a+b+c;export{e as default};
